@@ -1,0 +1,5 @@
+Usando Deno, vamos a crear un codigo en el cual reciba por medio de parametros de la linea de comando, un color y un texto.
+
+Esto se vera reflejado en la consola haciendo uso de la dependencia std de deno.
+
+ej: `deno run main.ts red “hola mundo”` imprimira en la consola el texto en rojo.
